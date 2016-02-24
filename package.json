@@ -1,0 +1,19 @@
+{
+  "name": "vue-animate-css",
+  "version": "1.0.0",
+  "description": "Vue transition with animate css",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "vue",
+    "transition",
+    "animate",
+    "css"
+  ],
+  "author": "RyanChan",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "vue": "^1.0.16"
+  }
+}
